@@ -1,0 +1,15 @@
+/workspaces/module2challenge/CalculatesMPG/obj/Debug/net8.0/CalculatesMPG.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/module2challenge/CalculatesMPG/obj/Debug/net8.0/CalculatesMPG.AssemblyInfoInputs.cache
+/workspaces/module2challenge/CalculatesMPG/obj/Debug/net8.0/CalculatesMPG.AssemblyInfo.cs
+/workspaces/module2challenge/CalculatesMPG/obj/Debug/net8.0/CalculatesMPG.csproj.CoreCompileInputs.cache
+/workspaces/module2challenge/CalculatesMPG/obj/Debug/net8.0/CalculatesMPG.sourcelink.json
+/workspaces/module2challenge/CalculatesMPG/bin/Debug/net8.0/CalculatesMPG
+/workspaces/module2challenge/CalculatesMPG/bin/Debug/net8.0/CalculatesMPG.deps.json
+/workspaces/module2challenge/CalculatesMPG/bin/Debug/net8.0/CalculatesMPG.runtimeconfig.json
+/workspaces/module2challenge/CalculatesMPG/bin/Debug/net8.0/CalculatesMPG.dll
+/workspaces/module2challenge/CalculatesMPG/bin/Debug/net8.0/CalculatesMPG.pdb
+/workspaces/module2challenge/CalculatesMPG/obj/Debug/net8.0/CalculatesMPG.dll
+/workspaces/module2challenge/CalculatesMPG/obj/Debug/net8.0/refint/CalculatesMPG.dll
+/workspaces/module2challenge/CalculatesMPG/obj/Debug/net8.0/CalculatesMPG.pdb
+/workspaces/module2challenge/CalculatesMPG/obj/Debug/net8.0/CalculatesMPG.genruntimeconfig.cache
+/workspaces/module2challenge/CalculatesMPG/obj/Debug/net8.0/ref/CalculatesMPG.dll
